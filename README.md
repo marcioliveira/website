@@ -1,2 +1,2 @@
 # website
- web site modelo
+ web site modelo para **outros sites** com *opções basicas*
